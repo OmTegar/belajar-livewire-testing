@@ -1,4 +1,4 @@
-<div wire:poll.1s>
+<div wire:poll.keep-alive>
     <table class="table">
         <thead>
             <tr>
